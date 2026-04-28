@@ -42,7 +42,6 @@ public class DataGenerator {
         return fullPhone.substring(0, fullPhone.length() - cutLength);
     }
 
-
     public static class Registration {
         private static Faker faker;
 
